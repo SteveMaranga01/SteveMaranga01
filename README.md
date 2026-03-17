@@ -1,12 +1,5 @@
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_SteveMaranga01&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_SteveMaranga01&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_SteveMaranga01&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_SteveMaranga01&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_SteveMaranga01&theme=github_dark)
 
 <!-- MasterHead -->
 <div>
