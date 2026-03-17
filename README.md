@@ -69,19 +69,6 @@
 
 
 
-<!-- Best Repositories -->
-<div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
-<a href="https://github.com/SteveMaranga01/SamPortfolio">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SteveMaranga01&repo=SamPortfolio" /></a>
-<a href="https://github.com/SteveMaranga01/RESUME">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SteveMaranga01&repo=RESUME" /></a>
-
-  </p>
-</div>
-
-
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
